@@ -1,0 +1,26 @@
+.top__header{
+  background-color: #523737;
+  color: white;
+}
+.top__header .header__top,
+.top__header .header__bottom{
+  display: flex;
+  justify-content: space-between;
+}
+.top__header_blue{
+  background-color: #5dbad2;
+  color: white;
+}
+
+.top__header .header__top {
+  margin-bottom: 15px;
+}
+
+.top__bottom .header__bottom{
+  margin:0 10px
+}
+
+.top__header .header__top__column,
+.top__header .header__bottom_column {
+  width: 33%;
+}
